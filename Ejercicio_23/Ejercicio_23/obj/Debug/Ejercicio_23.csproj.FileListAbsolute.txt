@@ -1,0 +1,7 @@
+C:\Users\leuny\source\repos\Ejercicio_23\Ejercicio_23\bin\Debug\Ejercicio_23.exe.config
+C:\Users\leuny\source\repos\Ejercicio_23\Ejercicio_23\bin\Debug\Ejercicio_23.exe
+C:\Users\leuny\source\repos\Ejercicio_23\Ejercicio_23\bin\Debug\Ejercicio_23.pdb
+C:\Users\leuny\source\repos\Ejercicio_23\Ejercicio_23\obj\Debug\Ejercicio_23.csproj.AssemblyReference.cache
+C:\Users\leuny\source\repos\Ejercicio_23\Ejercicio_23\obj\Debug\Ejercicio_23.csproj.CoreCompileInputs.cache
+C:\Users\leuny\source\repos\Ejercicio_23\Ejercicio_23\obj\Debug\Ejercicio_23.exe
+C:\Users\leuny\source\repos\Ejercicio_23\Ejercicio_23\obj\Debug\Ejercicio_23.pdb
